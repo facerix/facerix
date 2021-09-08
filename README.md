@@ -10,4 +10,4 @@ years now on building and mentoring frontend teams to cultivate the same passion
 - 🏡 I occasionally tinker with [my website](https://www.facerix.com/)
 - 🎲 I run a Quora space for [D&D nerds like myself](https://www.quora.com/q/dndrookies)
 - 👩🏻‍💼 I have a [LinkedIn](https://www.linkedin.com/in/ryecorradini)
-- 💼 I'm a staff frontend engineer at [SurveyMonkey](https://www.surveymonkey.com/)
+- 💼 I'm a staff frontend engineer at [Momentive](https://www.momentive.ai/)
